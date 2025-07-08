@@ -1,7 +1,9 @@
 Metadata-Version: 2.4
 Name: obsidian-graph
-Version: 0.1.1
+Version: 0.1.2
 Summary: Add your description here
 Requires-Python: >=3.13
 Description-Content-Type: text/markdown
 Requires-Dist: toml==0.10.2
+Requires-Dist: networkx
+Requires-Dist: pyyaml
